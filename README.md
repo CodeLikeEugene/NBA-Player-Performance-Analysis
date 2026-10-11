@@ -1,9 +1,7 @@
 # 🏀 NBA Player Performance Analysis: Who's the Real MVP?
 
-https://img.shields.io/badge/SQL-Analysis-blue
-https://img.shields.io/badge/MySQL-Database-orange
-https://img.shields.io/badge/Sports-Analytics-green
-https://img.shields.io/badge/Data-Analytics-purple
+<img width="4032" height="210" alt="image" src="https://github.com/user-attachments/assets/c5818a1a-b73d-4188-912d-3b09a6e07660" />
+
 
 ## 📌 Project Overview
 
